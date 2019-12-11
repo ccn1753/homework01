@@ -2,7 +2,10 @@ body {
     margin: 0;
     background-image: url("trees.png");
 }
-
+.header {
+    background-color: #ffffff;
+    border-color: #cccccc;
+}
 nav {
     float: right;
 }
@@ -11,12 +14,14 @@ h1 {
     color: #ffffff;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
 } 
+.aboutcontainer {
+    margin: auto;
+    width: 960px;
+    padding: 50px;
+    border: 1px solid #dddddd;
+    background-color: #ffffff;
+}
 .aboutme {
-    border: 1px solid black;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
     background-color: lightblue;
 } 
 h2 {
