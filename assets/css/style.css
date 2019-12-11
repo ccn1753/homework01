@@ -22,16 +22,17 @@ h1 {
     color: #ffffff;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
 } 
-.aboutcontainer {
+.wrapper {
+    min-height: 100%;
+    margin-bottom: 50px;
+}
+.about {
     margin: auto;
     width: 960px;
     padding: 50px;
     border: 1px solid #dddddd;
     background-color: #ffffff;
 }
-.aboutme {
-    background-color: lightblue;
-} 
 h2 {
     color: #4aaaa5;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
